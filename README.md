@@ -14,6 +14,8 @@ From these, I search the descriptions of each posting to determine whether a ski
 
 Once I had three months of weekly scrapes highlighting the number of skill mentions for 'Analyst' roles I moved onto visualizing this information in an interactive way. The dashboard offers the ability to explore a checklist of skills/certifications to see how they change over time (i.e. are they becoming more or less popular over time?). Again, this question can be solved by a simple Google search, but it is still informative and useful to quickly explore these 'popularity' changes over time.
 
+The first tab consists of seven callbacks. The checklist boxes update which skills are shown. The first dropdown changes the graph to display either skills or certifications. The second dropdown displays either the base graph (first seven options of the skills or certifications category), the highest percentage change, or the highest average value. The first dropdown also updates the bar chart to show the top skills or certifications.
+
 ![](https://media.giphy.com/media/LT65LPO9wYfTGNShaW/giphy.gif)
 
 
@@ -32,6 +34,35 @@ The second tab of the Dash app looks at my academic progress for the Fall 2019 s
 
 
 ![alt text](https://i.pinimg.com/originals/1c/7d/56/1c7d56fc335d89424b61071e9291061a.png)
+
+
+
+# Next Steps
+
+The app is still in very early stages. I plan to add several more features that I hope could make this a useful website for keeping track of job applications and school progress. 
+
+## Tab one plans
+- data table that returns jobs with selected skills of interest.
+- option to export the data table to excel to easily keep track of job applications.
+- resume parser that matches a list of job postings to an uploaded resume based on mentioned skills and experience.
+- job application progress tracker.
+
+## Tab two plans
+- scrape intranet site containing all relevant semester information (deadlines, assignments, tests, weights, weekly objectives, etc.).
+- create progress tracker for each class.
+
+## Overall plans
+- deploy app to Heroku, allow user access and caching of information.
+
+
+
+
+
+
+
+
+
+
 
 
 
