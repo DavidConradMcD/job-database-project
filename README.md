@@ -17,6 +17,10 @@ Once I had three months of weekly scrapes highlighting the number of skill menti
 ![](https://media.giphy.com/media/LT65LPO9wYfTGNShaW/giphy.gif)
 
 
+![alt text](https://i.pinimg.com/originals/9e/a2/2b/9ea22bbd919c690db6de78771ac1d59a.png)
+
+
+
 
 
 # Expanding the app to encompass school progress
@@ -25,6 +29,7 @@ The second tab of the Dash app looks at my academic progress for the Fall 2019 s
 
 
 ![](https://media.giphy.com/media/hs1mHsZbPhnoApZFXe/giphy.gif)
+
 
 ![alt text](https://i.pinimg.com/originals/1c/7d/56/1c7d56fc335d89424b61071e9291061a.png)
 
