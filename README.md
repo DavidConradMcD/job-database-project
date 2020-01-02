@@ -26,6 +26,7 @@ The second tab of the Dash app looks at my academic progress for the Fall 2019 s
 
 ![](https://media.giphy.com/media/hs1mHsZbPhnoApZFXe/giphy.gif)
 
-![Alt text](/Users/david/Downloads/Snip20200102_61.png)
+![alt text](https://i.pinimg.com/originals/1c/7d/56/1c7d56fc335d89424b61071e9291061a.png)
+
 
 
