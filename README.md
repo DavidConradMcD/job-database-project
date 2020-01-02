@@ -24,6 +24,6 @@ Once I had three months of weekly scrapes highlighting the number of skill menti
 The second tab of the Dash app looks at my academic progress for the Fall 2019 school semester. I wanted a way to visualize my grades as assignments/test grades came out so that I can ensure I'm on the right track throughout the semester. I plan to expand this tab to serve as a full academic dashboard that can present all useful school information (deadlines, study guides, documents) on one page.
 
 
-
+![](https://media.giphy.com/media/hs1mHsZbPhnoApZFXe/giphy.gif)
 
 
