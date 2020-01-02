@@ -14,8 +14,8 @@ From these, I search the descriptions of each posting to determine whether a ski
 
 Once I had three months of weekly scrapes highlighting the number of skill mentions for 'Analyst' roles I moved onto visualizing this information in an interactive way. The dashboard offers the ability to explore a checklist of skills/certifications to see how they change over time (i.e. are they becoming more or less popular over time?). Again, this question can be solved by a simple Google search, but it is still informative and useful to quickly explore these 'popularity' changes over time.
 
+![](https://media.giphy.com/media/LT65LPO9wYfTGNShaW/giphy.gif)
 
-<iframe src="https://giphy.com/embed/LT65LPO9wYfTGNShaW" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LT65LPO9wYfTGNShaW">via GIPHY</a></p>
 
 
 
