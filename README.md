@@ -42,17 +42,20 @@ The second tab of the Dash app looks at my academic progress for the Fall 2019 s
 The app is still in very early stages. I plan to add several more features that I hope could make this a useful website for keeping track of job applications and school progress. 
 
 ## Tab one plans
-- data table that returns jobs with selected skills of interest.
-- option to export the data table to excel to easily keep track of job applications.
-- resume parser that matches a list of job postings to an uploaded resume based on mentioned skills and experience.
-- job application progress tracker.
+- Data table that returns jobs with selected skills of interest.
+- Option to export the data table to excel to easily keep track of job applications.
+- Resume parser that matches a list of job postings to an uploaded resume based on mentioned skills and experience.
+- Job application progress tracker.
 
 ## Tab two plans
-- scrape intranet site containing all relevant semester information (deadlines, assignments, tests, weights, weekly objectives, etc.).
-- create progress tracker for each class.
+- Scrape intranet site containing all relevant semester information (deadlines, assignments, tests, weights, weekly objectives, etc.).
+- Create progress tracker for each class.
 
 ## Overall plans
-- deploy app to Heroku, allow user access and caching of information.
+- Deploy app to Heroku, allow user access and caching of information.
+- Scrape LinkedIn profiles of Ontario University students and store in a panel-structured dataset.
+- Construct a treatment-effects regression to analyze the impact that school, year of study, extracurriculars, program of study, etc. have on finding relavent employment. 
+
 
 
 
