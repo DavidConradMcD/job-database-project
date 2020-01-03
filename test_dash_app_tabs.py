@@ -256,8 +256,6 @@ for i in range(len(class_names)):
 for i in range(len(class_names)):
     classes_dict[class_names[i]]['Weighted Avg'] = weighted_avg_list[i]
 
-for i in range(len(class_names)):
-    classes_dict[class_names[i]]['Weighted Avg'] = weighted_avg_list[i]
 
 
 color_list = ['rgb(31, 119, 180)',
